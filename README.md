@@ -39,11 +39,13 @@ npm run dev
 
 
 💻 Frontend Web
+
 cd web
 npm install
 npm run dev
 
 **📱 Mobile (React Native com Expo)**
+
 cd mobile
 npm install
 npx expo start
