@@ -32,7 +32,7 @@ Sistema completo para gerenciamento de pedidos em restaurantes. O projeto é div
  
  ## 📦 Como rodar cada parte
 
-🔧 Backend (API)
+** ##🔧 Backend (API)**
 
 cd api
 
@@ -42,7 +42,7 @@ npm run dev
 
 
 
-💻 Frontend Web
+** ##💻 Frontend Web**
 
 cd web
 
@@ -51,7 +51,7 @@ npm install
 npm run dev
 
 
-**📱 Mobile (React Native com Expo)**
+** ##📱 Mobile (React Native com Expo)**
 
 cd mobile
 
