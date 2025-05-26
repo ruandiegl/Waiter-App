@@ -60,9 +60,9 @@ npm install
 npx expo start
 
 
-**👨‍💻 Autor**
+## **👨‍💻 Autor**
 Feito com 💙 por Ruan Diego
 
 
-**📌 Observações**
+## **📌 Observações**
 Este projeto foi desenvolvido como estudo prático de arquitetura fullstack com foco em tempo real e integração entre plataformas.
