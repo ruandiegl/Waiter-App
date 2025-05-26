@@ -29,5 +29,28 @@ Sistema completo para gerenciamento de pedidos em restaurantes. O projeto é div
   - React Native
   - Expo
   - TypeScript
+ 
+ ## 📦 Como rodar cada parte
+
+🔧 Backend (API)
+cd api
+npm install
+npm run dev
 
 
+💻 Frontend Web
+cd web
+npm install
+npm run dev
+
+**📱 Mobile (React Native com Expo)**
+cd mobile
+npm install
+npx expo start
+
+**👨‍💻 Autor**
+Feito com 💙 por Ruan Diego
+
+
+**📌 Observações**
+Este projeto foi desenvolvido como estudo prático de arquitetura fullstack com foco em tempo real e integração entre plataformas.
