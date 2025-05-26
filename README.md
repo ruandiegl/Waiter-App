@@ -42,13 +42,12 @@ npm run dev
 
 
 
-## **💻 Frontend Web**
+## **💻 Frontend Web:**
+ - cd web - 
 
-cd web
+ - npm install - 
 
-npm install
-
-npm run dev
+ - npm run dev - 
 
 
 ## **📱 Mobile (React Native com Expo)**
