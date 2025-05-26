@@ -64,4 +64,4 @@ Feito com 💙 por Ruan Diego
 
 
 ## **📌 Observações**
-Este projeto foi desenvolvido como estudo prático de arquitetura fullstack com foco em tempo real e integração entre plataformas.
+O Waiter App é uma solução completa para gerenciamento de pedidos em restaurantes, permitindo que garçons registrem pedidos via aplicativo mobile, que são então processados e exibidos em tempo real no painel web.
