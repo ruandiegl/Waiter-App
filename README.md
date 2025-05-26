@@ -42,7 +42,7 @@ npm run dev
 
 
 
-## **💻 Frontend Web:**
+## **💻 Frontend Web**
 cd web
 
 npm install
